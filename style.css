@@ -65,3 +65,16 @@ body {
     height: 3rem;
 }
 
+.profile-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden; 
+}
+
+.profile-photo img {
+    height: 6rem;
+    width: 6rem;
+}
+
